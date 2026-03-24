@@ -1,0 +1,5 @@
+{
+  "name": "F1 Manager",
+  "description": "A next-gen F1 management simulation powered by Gemini. Scout real-world drivers using Google Search, and simulate complex race strategies with Gemini's Thinking mode.",
+  "requestFramePermissions": []
+}
